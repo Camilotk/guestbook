@@ -1,1 +1,1 @@
-#:kit{:html :success}
+#:kit{:html :success, :sql :success}
